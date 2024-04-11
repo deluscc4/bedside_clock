@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clock</string>
+    <string name="hello">Hello</string>
+    <string name="battery_level">Battery level</string>
+</resources>
